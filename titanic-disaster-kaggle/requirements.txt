@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+image
+sklearn
+seaborn
+xgboost
+plotly
+ipython
+re
